@@ -35,7 +35,6 @@ Este é o repositório do projeto backend da API dsList - Lista de Games. A API 
 2. Clone este repositório em sua máquina local utilizando o comando:
     git clone https://github.com/seu-usuario/nome-do-repositorio.git
     
-    
 3. Importe o projeto em sua IDE preferida como um projeto Java Maven existente.
 
 4. Configure as propriedades do banco de dados no arquivo `application.properties` para utilizar o banco de dados H2 em memória:
@@ -45,7 +44,6 @@ Este é o repositório do projeto backend da API dsList - Lista de Games. A API 
         spring.datasource.username=sa
         spring.datasource.password=
         spring.jpa.database-platform=org.hibernate.dialect.H2Dialect
-
 
         5. Execute a aplicação Java Spring Boot.
 
@@ -60,7 +58,3 @@ Este é o repositório do projeto backend da API dsList - Lista de Games. A API 
         2. Crie uma nova branch com a sua feature ou correção de bug:
 
         git checkout -b minha-feature
-
-        3. Faça as alterações desejadas e adicione os
-
-
